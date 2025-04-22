@@ -1,0 +1,12 @@
+Depth (m),Gamma Ray (API),Neutron Density (g/cc),Resistivity (ohm·m),Lithology
+165.0,85,2.45,3.5,Sandstone
+167.0,90,2.48,3.7,Sandstone
+169.0,95,2.50,4.0,Sandstone
+171.0,102,2.55,4.2,Shale
+173.0,110,2.60,4.5,Shale
+175.0,115,2.62,4.8,Shale
+177.0,108,2.59,4.3,Limestone
+179.0,97,2.52,3.9,Limestone
+181.0,90,2.50,3.6,Limestone
+183.0,82,2.46,3.3,Sandstone
+185.0,78,2.44,3.1,Sandstone
